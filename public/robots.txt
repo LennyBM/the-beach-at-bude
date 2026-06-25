@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://the-beach-at-bude.vercel.app/sitemap.xml
